@@ -1,7 +1,7 @@
 /**
  * Class for hashing MD5
  *
- * @Ilham Mulya Rafid
+ * @WolfDroid
  * @version 28/02/2020
  */
 
